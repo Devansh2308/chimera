@@ -6,7 +6,7 @@ import Carousel from "../components/Carousel";
 import About from "../components/About";
 import Why from "../components/Why";
 import Faq from "../components/Faq";
-import Contact from "../components/COntact";
+import Contact from "../components/Contact";
 
 
 
